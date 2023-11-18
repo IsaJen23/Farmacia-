@@ -17,7 +17,7 @@ import { FilesModule } from './files/files.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: '090202',
+      password: '123456',
       database: 'farmacia',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true,
